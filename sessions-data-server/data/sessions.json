@@ -1,0 +1,637 @@
+[
+  {
+    "id": 1,
+    "title": "AR the next great digital ad format",
+    "abstract": "Reality check' Augmented Reality is rapidly emerging as the bridge between traditional advertising and the new Web 3 world. This talk highlights the opportunity for brands to embrace Web 3 and drive results by building a robust AR strategy for the longterm."
+  },
+  {
+    "id": 2,
+    "title": "THE ROLE OF GENERATIVE AI IN REGENERATING OUR REALITY.",
+    "abstract": "Generative AI in todays society and Future"
+  },
+  {
+    "id": 3,
+    "title": "How Does LLM and Generative AI Really Work?",
+    "abstract": "Everyone is talking about it: Generative AI and Large Language Models. To really understand what you can do with them, how to refine them for your own use, but also what the dangers are, it helps to understand how these models work.\n\nLLMs are trained on massive datasets of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.\n\nIn this talk, Lee Boonstra, Software Engineer Tech Lead and advocate will provide a beginner’s guide to LLMs and generative AI technology. She explains what these technologies are, how they work, and what they can be used for. Let’s be honest and also discuss the potential risks and benefits of these technologies, and how we can ensure that they are used for good and not for harm.\n\nIntroduction to LLMs and generative AI technology\nHow LLMs and generative AI technology work\nUse cases for LLMs and generative AI technology\nRisks and benefits of LLMs and generative AI technology\nThe future of LLMs and generative AI technology"
+  },
+  {
+    "id": 4,
+    "title": "Unlocking the Power of Spatial Media: Insights from Snapchat, Instagram and TikTok ",
+    "abstract": "Join us as we explore the XR landscape on social media, where platforms like Snapchat, Instagram, and Facebook have pioneered immersive experiences. Discover our approach to XR development, learnings from the past five years, and insights into building award-winning XR production teams. Gain a deeper understanding of how adoption rates and user interest shape the future of spatial media, and uncover strategies for leveraging past industries and technologies to accelerate your spatial computing initiatives. Get ready to revolutionize your digital experiences!"
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning for Privacy-Preserving Ads",
+    "abstract": "In an era where privacy is increasingly paramount, it is crucial that the advertising industry adapt to the evolving needs and expectations of users. This talk explores how Reddit is leveraging Natural Language Processing and Machine Learning to create user-centric and privacy-conscious advertising models.\nWe will delve into how different techniques are employed to generate robust and meaningful signals for ad targeting. With these signals, drawn from the vast ocean of user-generated content on Reddit, we are able to interpret and understand the nuances of user interactions and discussions.\nYet, unlike conventional methods, our approach does not involve explicit personal data collection, thus ensuring respect for user privacy."
+  },
+  {
+    "id": 6,
+    "title": "Developing AI in a privacy conscious world",
+    "abstract": "As generative AI has taken over workflows and the world, many people and companies are wondering how to make sure we stay compliant with local legislation, but most importantly: Keep our data safe. During this talk track we will go over data governance, creating a product management flow that will bring a unified messaging for your organization, and finally how does Zoom leverage AI from ideation to product"
+  },
+  {
+    "id": 7,
+    "title": "AI as human augmentation",
+    "abstract": "Explore the unlimited potential of artificial intelligence as the ultimate tool for human augmentation. This session illuminates how AI eases tasks, scales capabilities, and removes obstacles to progress. Examples from diverse fields illustrate AI's profound role in advancing society and technology.\nIn addition to amplifying abilities, AI also augments human flaws. Let’s confront the dark side of AI and discuss our role as developers and tech leaders in mitigating these challenges.\nEvery line of code contributes to a future shaped by artificial intelligence. Ultimately as creators of augmenting technology we shoulder the responsibility in ensuring AI not only enhances human abilities but also corrects its flaws. We don't just witness the future—we create it. Don't miss this opportunity to discover how each keystroke is influencing humanity's grand masterpiece—our future. Let's craft it with care, together.Unsupervised AI scan tool "
+  },
+  {
+    "id": 8,
+    "title": "How we leverage AI to build great maps at massive scale",
+    "abstract": "Have you ever wondered how map features such as traffic signs get on the map? Or did you think they were manually put there? Surely, if that was the case, the map would've been outdated in a million places by the time it was finished. Let me take you through the journey of processing data, transforming observations to knowledge, map matching and publishing features to the map. At global scale."
+  },
+  {
+    "id": 9,
+    "title": "Multimodal Conversational Interfaces with GPT and Vision AI ",
+    "abstract": "Artificial intelligence is rapidly changing the world we live in, and Microsoft is at the forefront of this exciting revolution. Join us for a session where we'll explore the latest innovation from Microsoft and GitHub on AI.\n\nLet's explore the latest technologies, including Azure OpenAI, Neural voice, and GitHub Co-pilot. With Co-pilot, an AI-powered coding assistant that suggests code snippets based on project context, developers can boost productivity. We'll also discuss the importance of developing AI in a way that benefits society as a whole.\n\nDon't miss this opportunity to learn and discover how you can leverage AI to drive innovation in your own organization."
+  },
+  {
+    "id": 10,
+    "title": "Architecting a Seamless E-commerce Platform Transition: A Deep Dive into Migration Strategies",
+    "abstract": "This presentation unveils essential strategies for engineers to master the art of e-commerce platform migration. Explore key considerations, real-world case studies, and actionable insights for a seamless transition."
+  },
+  {
+    "id": 11,
+    "title": "A Passwordless Future! Passkeys for Java Developers",
+    "abstract": "Weak passwords remain one of the major causes of breaches and security incidents. The Web Authentication standard provides a robust framework for passwordless authentication using passkeys. Passkeys are the latest revolution in authentication. You may have used it with Google or GitHub. But what exactly is it and how does it work? You will learn all about it in this talk.\n\nWe will dive into the core concepts of passkeys, their architecture, and their pros and cons. We will see how Passkey leverages public key cryptography and biometrics/hardware authenticators to offer enhanced security and usability while eliminating the vulnerabilities associated with traditional password-based systems.\n\nWe will explore how Java developers can leverage WebAuthn Java libraries to implement passkeys in their apps. We will also learn to use passkeys with Spring Security and external Identity providers. There will be demos, showing step-by-step integration of passkeys into Java web applications."
+  },
+  {
+    "id": 12,
+    "title": "Zooming in on an End-to-End Video Solution: Using Zoom's Video SDK",
+    "abstract": "The workshop will enable developers to work together in teams and set up the Zoom Video SDK within a React Website. The Video SDK provides video, audio, screen sharing, chat, data streams, and more, as a service. Developers can learn how to build with some of these features to create an immersive video experience between two participants."
+  },
+  {
+    "id": 13,
+    "title": "Concurrency Models Demystified",
+    "abstract": "Concurrency Models Demystified\" explores the diverse range of concurrency models utilised in programming languages. Delving into traditional threads, coroutines, the actor model, and async/await, this talk provides real-world examples and insightful comparisons to highlight the unique strengths and trade-offs of each model. By gaining a better understanding of these models, developers will be equipped to make informed decisions when tackling concurrent programming challenges"
+  },
+  {
+    "id": 14,
+    "title": "Using MySQL Document Store with Node.js",
+    "abstract": "MySQL Document Store offers developers the best features of NoSQL and traditional SQL-based databases. In this session, we will discuss how we can use Node.js to access a MySQL Document Store, create/remove collections, create/update/remove documents, retrieve, filter, & sort document lists, and leverage raw SQL to retrieve aggregate data for reporting purposes."
+  },
+  {
+    "id": 15,
+    "title": "Supercharge your Backend for Frontend with Kotlin",
+    "abstract": "In this presentation, we will explore the emergence of new architectural patterns like API Gateway and Backend For Frontend in the era of microservices. We will delve into the specific challenges these patterns address, which were not prevalent in monolithic architectures. Additionally, we will examine the convenient solutions offered by cloud providers like AWS and explore how leveraging the Kotlin programming language can enhance the advantages of these patterns."
+  },
+  {
+    "id": 16,
+    "title": "Introduction and pitfalls of Java's new concurrency mode",
+    "abstract": "\"Java 21 releases one of the most anticipated features, virtual threads, and previews structured concurrency. It rethinks the way multithreading works in Java. It was born out of the idea that reactive Java is too complicated and blocking threads has to be cheap. Resulting in the new virtual threads that we run thousands of!\n\nThe aim of virtual threads and structured concurrency is to have high-throughput lightweight threads and new programming models on the Java platform. In this talk, I will demonstrate virtual threads and how to create and manage them using structured concurrency. Furthermore, I'll provide some practical advice to avoid pitfalls when you start using virtual threads in your application.\""
+  },
+  {
+    "id": 17,
+    "title": "Navigating a Full Stack Knowledge Architecture from Database to LLM",
+    "abstract": "Together, let's explore the convergence of data, language, and wisdom within a Full Stack Knowledge Architecture. We'll model our way up the stack as data becomes information, creates knowledge, and guides us toward wisdom (aka business insight). Then we'll combine the expressive power of an LLM with the deterministic precision of a query language to reach back down the stack. Along the way we'll identify new access patterns for querying and navigating data: outside-in, inside-out, pattern matching and analogies."
+  },
+  {
+    "id": 18,
+    "title": "Harry Potter and the Elastic Python Clients",
+    "abstract": "We will create a search application by indexing the Harry Potter books, and enrich it with vector search, embeddings and NLP techniques. Does the search engine browse the books better than the ultimate fan? We can then set up observability to monitor the activity and health of our application, and see if users manage to break the search engine. All of this using the python clients for Elastic. \n\nThis demo will go through data cleaning and ingestion into Elasticsearch and show how to do type mapping and index your documents. Then we will explore different types of search queries and how to leverage the Python Client to create requests. We will use NLP models and embeddings to create a vector search application on our dataset, and show how to create free-text searches. Finally, we can set up monitoring for the search application and see the performance of our Python code. \nThis gives a great overview of all the ways you can use Python together with the Elastic stack."
+  },
+  {
+    "id": 19,
+    "title": "Elixir: Happy Developers and Scaleable Backends",
+    "abstract": "According to the 2023 Stack Overflow Developer Survey, Elixir is the second most loved programming language, and its web framework Phoenix takes the number one spot in most loved frameworks. Not only is Elixir a joy to work with, it is also an excellent choice for highly scaleable and fault-tolerant backend systems and is an important part of successful tech companies such as Discord and Podium\n\nThis talk will highlight the main ways in which Elixir differs from other commonly used backend languages like JavaScript or Ruby.  Then, it will give developers from other languages an introduction into OTP, the underlying framework that makes it almost trivial to build concurrent and highly fault-tolerant systems in Elixir (and Erlang).  Lastly, I'll highlight some of the specific ways in which Elixir and Phoenix have allowed CodeSandbox to grow and move quickly with a very small team of backend developers.\n\nThe overall aim of this talk is to introduce otherwise experienced developers to a language and ecosystem they are not yet familiar with, and hopefully inspire them to give Elixr and Phoenix a try for their next project."
+  },
+  {
+    "id": 20,
+    "title": "Migrating to Success: Unleashing the Power of Django Migrations",
+    "abstract": "Django migrations are an essential aspect of building robust and scalable web applications. They empower developers to manage changes to the database schema over time, ensuring data integrity and seamless updates. In this talk, we will delve into the world of Django migrations, exploring their purpose, mechanics, and best practices.\n\nWe will start by understanding the fundamentals of migrations and their role in maintaining database consistency. Next, we will dive into the practical aspects of Django migrations, exploring the migration files themselves and the various commands available.\n\nWe'll cover topics such as creating, applying migrations and rolling back changes. We'll also discuss the powerful features provided by Django's migration framework, including data migrations and customizing migrations for specific use cases.\n\nBy the end of this talk, attendees will have a deep understanding of Django migrations and be equipped with practical knowledge and tips to effectively manage database schema changes in their Django projects."
+  },
+  {
+    "id": 21,
+    "title": "Clean Code, is it really worth it?",
+    "abstract": "As developers, we participate every day in our software life cycle adding new logic, adapting it, and integrating with services or platforms.\n\nBut, do we put the same effort into making software robust, maintainable, consistent, secure, clear, and tested?\n\nIn this session, I will show the need for good practices in Clean Code along with the issues of not using it, showing concepts like Clean As You Code (CAYC) using free and open-source tools.\n\nClean Code goes beyond the produced software and its programming language. Is part of a developer's role growth no matter the language and the company"
+  },
+  {
+    "id": 22,
+    "title": "Fusion development: How low-code and full-code play together",
+    "abstract": "Developers still rule the world! But with Low-code platforms emerging as a popular tool for accelerating development cycles it makes sense to have a look at what is possible nowadays. In this session, we explore how Fusion development - the combination of low-code and full code development - can help teams balance speed and flexibility to deliver high-quality applications at scale as well as enable the business to adapt to the ever changing requirements of customers."
+  },
+  {
+    "id": 23,
+    "title": "Modern C#: A Dive into the Community's Most Loved New Features",
+    "abstract": "Are you tired of using outdated features and techniques in your code? Do you want to keep up with the latest C# development? Join this talk to discover new features in the C# community, that you can include in your future projects.\n\nIn this talk, we will dive into Records, Pattern Matching, DateOnly, TimeOnly, and Switch Expressions.. We will discuss their benefits, and how they can help you improve your code in ways you never thought possible.\n\nBy the end of this talk, you will have a clear understanding of why these new features are essential for C# development and how to incorporate them into your own projects. You will leave this talk ready to take your coding skills to the next level and keep up with the latest C# features."
+  },
+  {
+    "id": 24,
+    "title": "A design pattern goes to the supermarket",
+    "abstract": "Everybody knows the term design patterns. Some know the patterns and correct implementation by heart. Others vaguely recognize the pattern names but don’t recall the details. This talk is intended for the latter group.     \nI’ll dive into a couple of design patterns using real-life examples. What would a design pattern look like in day-to-day life? We’ll follow Bobby and Billie and discover how a design pattern would behave in a non-digital environment: a supermarket! With the help of drawings and code snippets, this talk will give you a solid understanding of design patterns, so you won't have to look them up ever again!"
+  },
+  {
+    "id": 25,
+    "title": "AI driven business value at pace and scale: How to create and scale AI Products, MLOPs and Generative AI with High Adoption and AI Ethics in Mind",
+    "abstract": "In the last weeks and months we saw many appeals for AI regulation from EU, Open AI, Google, Microsoft and leading researchers, as well as companies in the news for getting topics like eg bias wrong.\nIn this Session learn about the WHY, WHAT and HOW of building business benefits at scale and pace, with Responsible/Ethical AI by default, in a fast moving Tech company, in the context of the upcoming EU AI act and other relevant upcoming international regulations."
+  },
+  {
+    "id": 26,
+    "title": "Lost in Cyberspace: Tracking Down the Missing TCP Packet",
+    "abstract": "This presentation is all about tracking a TCP packet, as the name suggests.\n\nWe will start by examining the server setup and providing an overview of the Azure Kubernetes Cluster that we have implemented on the TomTom side.\n\nNext, we will briefly explain the client setup and how TomTom services are utilized.\n\nAfter that, we will delve into TCP packet captures, demonstrating how firewalls can affect the delivery of your initial HTTP request to its intended destination.\n\nPlease note that this presentation will involve technical details, including scripts and screenshots of tcpdump."
+  },
+  {
+    "id": 27,
+    "title": "Demystifying Azure app service's performance and scaling",
+    "abstract": "Azure App Service has been available for some time, yet developers and cloud engineers often find themselves puzzled by its performance intricacies. Join us on an in-depth exploration of Azure App Service, where we'll delve into topics such as scaling, performance, and pricing. Through the lens of performance engineering, we'll demonstrate how to determine the ideal sizing and auto-scale settings to enhance your environment. Let's collaboratively uncover the boundaries within Azure App Service and share our best practices for maximizing its potential!"
+  },
+  {
+    "id": 28,
+    "title": " Event-driven autoscaling for Serverless Java",
+    "abstract": "Kubernetes makes it possible to autoscale various business use cases from web apps to mobile, IoT edge streaming, and AI/ML in more reliable and stable ways. One caveat of Kubernetes autoscaling is based on hardware resource utilization (CPU, memory) through Horizontal Pod Autoscaling. This causes a new challenge to build an event-driven serverless Java on Kubernetes because the event metrics from multiple event sources (e.g., Apache Kafka, AWS SQS) are more relevant than a pod's CPU usage for deciding when applications need to be scaled out and in.\n\nFortunately, KEDA and Knative on Kubernetes are designed to solve this challenge by autoscaling both standard apps and serverless by event metrics in a separate way. This session will teach you how to redesign your Kubernetes autoscaling architecture by event-driven metrics from Apache Kafka over standard resources (CPU, Memory) with Knative and KEDA integration for serverless Java using Quarkus."
+  },
+  {
+    "id": 29,
+    "title": "Kubernetes Observability with eBPF",
+    "abstract": "eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel. It is used to safely and efficiently extend the capabilities of the kernel without requiring to change kernel source code or load kernel modules. BumbleBee (https://github.com/solo-io/bumblebee) is a new Open Source project which helps to build, run and distribute eBPF programs using OCI images. It allows you to focus on writing eBPF code, while taking care of the user space components – automatically exposing your data as metrics or logs. In this workshop, we’re introducing eBPF and the different ways to create eBPF programs. Then, attendees are creating their first eBPF program using BCC and libbpf to have a better understanding of the main concepts. Finally, they are going through several labs to build and deploy an eBPF program with BumbleBee. They also deploy Prometheus and a web application on Kubernetes to display all the communications happening in the Kubernetes cluster."
+  },
+  {
+    "id": 30,
+    "title": "Put your APIs in the hands of millions of developers 🚀",
+    "abstract": "Join me for a session on the Microsoft Power Platform, a dynamic low-code platform that provides an ideal space for developers like you. With the Power Platform, business users gain the ability to create their own apps, workflows, chatbots, and websites effortlessly by leveraging intuitive low-code editors.\n\nOne vital component within this platform is the connector, acting as a convenient wrapper around APIs. Connectors empower business users to seamlessly communicate with APIs, eliminating the need to grapple with complex concepts such as HTTP requests and responses.\n\nDuring this session, we will dive into the world of custom connectors. Discover how you can develop and deploy your very own connector, enabling millions of business users to leverage your creation and build their unique solutions. Step beyond building for your individual use cases and become a catalyst for innovation across a vast network of empowered business users.\n\nJoin me in this session as we explore the immense potential of custom connectors in the Microsoft Power Platform and embark on a journey to revolutionize the way businesses create applications, workflows, chatbots, and websites."
+  },
+  {
+    "id": 31,
+    "title": "Doing the DDD dance with Google Cloud",
+    "abstract": "Domain driven design is becoming the de facto choice for many developers on how to structure their applications. However, 20 years since the inception of DDD, the world has changed and cloud is everywhere. Does it still make sense to use DDD patterns in a cloud native world? In this talk I will go over all the building blocks of a DDD architecture and how they map on Google Cloud. You will get a pretty good idea on how to tackle complexity in a modern cloud environment."
+  },
+  {
+    "id": 32,
+    "title": "Simplify cloud migrations in complex settings",
+    "abstract": "How we in Atlassian are currently undergoing a lot of customer migrations from on-premises to the cloud. This complex undertaking requires careful planning, expertise, and coordination. However, the benefits of cloud migration, including increased agility, cost savings, and improved scalability and security, make it a compelling choice for many organizations seeking to modernize their infrastructure and embrace the advantages of cloud computing."
+  },
+  {
+    "id": 33,
+    "title": "The Fifth Element : Azure Secure Devops",
+    "abstract": "In the 21st Century the Cyber Universe is threatened by Evil Source Code and Evil entities. The only hope for many developers is the Fifth Element : the Sec in Devops, which must be implemented side by side with the Four elementals : Code, Build, Test , Deploy. A Microsoft Service is bringing the Four Elements but can the Fifth be included, and will it save us from disaster? \n\nLet us see how we can leverage Microsoft product in combination with industry standards and protocols and 3rd party tools al over the full flow of your DevOps and ALM structure."
+  },
+  {
+    "id": 34,
+    "title": "A Greener, Cost-Effective Cloud with Serverless WebAssembly",
+    "abstract": "Software Carbon Intensity (SCI) quantifies emissions from an application, combining operational and hardware emissions. Serverless functions reduce operational emissions by running apps on-demand, but faces cold-start delays. WebAssembly (Wasm) offers a solution to cold-start issues with near-instant startup, akin to containers but more efficiently.\n\nWasm modules are just as secure as containers with default sandboxing, yet they start almost instantly (in microseconds). In this session, we discuss why Wasm is the ideal & greenest unit of compute for Serverless applications and how you can get started using Serverless Wasm with Spin - an open source developer tool. We’ll demo running AI inferencing Spin applications and discuss how it also enables better GPU resource sharing. By the end, you’ll have an understanding of the characteristics that make Wasm a cost-effective and sustainable unit for a greener cloud."
+  },
+  {
+    "id": 35,
+    "title": "Interconnecting Cloud Applications with Skupper",
+    "abstract": "Skupper is a Multi-cluster, multi-cloud, multi-platform solution.\nIt helps solve cross-platform and multi-cloud communication challenges by enabling developers to add trusted, resilient connectivity between applications running on any Kubernetes cluster, virtual machine or bare-metal host. These connections can stretch across any infrastructure environment, from on-premises datacenters to the edge and public cloud.\nAs a result, developer teams can more quickly connect applications without needing elevated privileges or advanced networking skills, resulting in increased application development velocity while maintaining compliance with security requirements."
+  },
+  {
+    "id": 36,
+    "title": "Cloud Agnostic Design Patterns and Tips",
+    "abstract": "You've probably seen how to create a Function-as-a-Service with one of the cloud providers, but if this is all you know about Serverless, prepare to have your mind blown!\nIn this session we'll show you how to create a production-grade, cloud-agnostic, event-driven serverless solution with Quarkus, a Java stack optimized for fast startup and small footprint; and Knative, an open source community project for deploying, running and managing serverless applications on Kubernetes. Say goodbye to vendor lock-in and hello to Supersonic Subatomic Java-based Serverless bliss!"
+  },
+  {
+    "id": 37,
+    "title": "Addressing the impact of information latency",
+    "abstract": "Join me to learn about fit for purpose solutions at scale in Adobe Experience Cloud and integration patterns. No matter if you buy off the shelves or build your own custom solution, you need to assess and address the impact of information latency to your business agility, goals and to your customer experiences."
+  },
+  { "id": 38, "title": "Angular 17", "abstract": "-" },
+  {
+    "id": 39,
+    "title": "Rethinking Browser Automation: Unleashing the Power of Puppeteer and Playwright",
+    "abstract": "Are you ready to challenge the status quo and explore the intricacies of browser automation? Join us as we dive into the powerful world of Puppeteer and Playwright to demonstrate how these tools can revolutionize your development and testing workflows. We'll scrutinize the traditional use cases of browser automation and venture beyond the usual scraping content or automated form submission.\n\nThis fast-paced, highly interactive talk casts a critical eye on de-facto solutions while uncovering hidden treasures from classical practices. We'll showcase real-life examples demonstrating the power of applicable browser instrumentation and automation, putting the spotlight on out-of-the-box approaches and creative techniques. You'll get insights into harnessing the strengths of Chromium DevTools Protocol, Protocol Monitor, and cloud functions (FaaS) to reimagine the limits of what's possible with browser automation.\n\nDesigned for software and QA engineers in search of novel ideas and fresh challenges, our talk will focus on JavaScript-based solutions. Expect to leave with valuable tips and tricks, a thorough understanding of developer tools such as Puppeteer and Playwright, and renewed inspiration for tackling the next big project."
+  },
+  { "id": 40, "title": "Chrome Aurora", "abstract": "- " },
+  { "id": 41, "title": "Wiz", "abstract": "- " },
+  {
+    "id": 42,
+    "title": "How to introduce new technology at work (and why you maybe shouldn't)",
+    "abstract": "Picking up a new language or framework is always a fun side project, but bringing these into production software at work is always a challenge. It may not be compatible with other technologies you use. The project will need to be maintained for possibly years to come. You will have to convince the rest of your team it's a good idea and they should invest the time to learn.\nAt Codat, we have used React for our front ends for years but earlier this year we successfully did a project using Svelte. In this talk I will discuss why we decided to use Svelte, how to convince people to use a new language or framework, and why you maybe shouldn't."
+  },
+  {
+    "id": 43,
+    "title": "Superpowers of browser's Web API",
+    "abstract": "When optimizing loading performance of web apps, everything is easy when we Google a little bit and apply standard optimization techniques like minimizing & compressing files, using tree-shaking, inlining critical CSS, using next-gen image formats, apply caching headers, use server-side rendering etc... But what if, that is not enough and we need to go above & beyond that. That's where we need to take secret shortcuts, so we can boost the loading time of our app to the speed of light 🚀🚀🚀\n \nThis talk has the answer to the question what are secret shortcuts of Loading Web Performance, with a lot of real-life examples in React."
+  },
+  {
+    "id": 44,
+    "title": "How bunq rebuilt Frontend for higher quality code, record-speed development, and effortless developer onboarding",
+    "abstract": "In this talk, he’ll go over how the framework was based on lessons learned of bunq’s custom backend framework, how to leverage code generators and AI to optimize developer efficiency, and how writing clean, reusable, and extremely readable code almost negates the need for writing documentation. This reflects bunq’s transition into an established international scaleup, able to drive innovation in the financial sector faster and more efficiently than legacy banks."
+  },
+  {
+    "id": 45,
+    "title": "JavaScript Streaming - A Qwik glimpse into the future",
+    "abstract": "The instant web revolution has begun!\n\n\"wow... that's a big statement Shai...\"\n\nI know, but this statement is based on a research and thorough analysis of the past 26 years of web development, the recurring patterns that affected the transition between web technologies and the current trends and direction things are going towards.\n\nAll signs show that we’re at the beginning of a new generation of web frameworks.. and the first framework of this new generation is Qwik, which has reached v1.0\n\n\"\"Why should we care about it?\"\"\n\nQwik allows JavaScript developers to write any size app and have it load instantly, with no extra effort.\n\nIt completely eliminates the need to manually optimize your app for performance, and that pays dividends especially as your app grows. Businesses gain better SEO ranking, conversions and User experience while developers can focus on building features instead of chasing after performance issues.\n\nBasically, Qwik introduces the same revolution that video streaming brought to the world.\nSo if we don't want to become the next \"\"Blockbuster\"\" in the Netflix story, we need to understand the next evolution in web development and how to adapt to it.\n\nIn this talk, we'll cover the past, present and future of web development, but more importantly, we'll get an awesome introduction to this new and innovative framework and the cool & new technology behind it."
+  },
+  {
+    "id": 46,
+    "title": "Enhance and improve user experience with BFF",
+    "abstract": "An online modern user-facing application consists of two components; a client-side and a server-side, known as Backend For Frontend (BFF).\n\nBFF is not just \"\"another\"\" backend component but it is a mindset that needs to be followed and respected, which is the key to enhanced and improved user experience.\n\nIn this talk we are going to see what BFF design pattern is and why is it a MUST for an online application. We will also discuss the benefits of BFF from different perspectives.\n\nI'll also share my personal experience and how did I convince my PO to implement this idea within our company."
+  },
+  {
+    "id": 47,
+    "title": "Backstage Plugins: Another way to communicate your data",
+    "abstract": "Backstage is known for helping developers focus on what truly matters — creating remarkable features, maintaining services, and expanding knowledge. But how can we take it to the next level? In this talk, we're shifting gears and diving into the realm of Backstage plugins.\n\nJoin us as we explore how the Lighthouse squad from Spotify leverages Backstage to communicate different performance and quality insights throughout their organization. More importantly, discover how YOU can leverage the magic of Backstage plugins to tap into the rhythm of collaboration, harmonize your communication channels, and rock the stage like never before."
+  },
+  {
+    "id": 48,
+    "title": "Take it offline",
+    "abstract": "This interactive workshop provides a unique and enjoyable entry point for individuals interested in exploring the world of programming through the lens of exploration and \"\"play\"\". Delving into a collection of challenges, puzzles, and board games, attendees will explore, learn and collaborate together - whilst having fun at the same time! At the same time, all our activities are offline, so no computers are required for participation. \n\n\nAttendees are encouraged to bring nothing more than a curious mind and a willingness to dive right in."
+  },
+  {
+    "id": 49,
+    "title": "Tauri 2.0",
+    "abstract": "This talk will introduce Tauri, the rust-based application framework that leverages system-webviews in order to make very small, fast, and secure apps for Desktops and Mobile devices. It will go into detail about the new features and approaches of Tauri's 2.0 release, with a quick walkthrough of Tauri's polyglot architecture and platform support. It will wrap-up with a live demo focussing on practical advice about how to create apps that are consistently below 5MB."
+  },
+  { "id": 50, "title": "Workshop: Starting with Web3", "abstract": "- " },
+  {
+    "id": 51,
+    "title": "iOS Runtime Manipulation (PWND)",
+    "abstract": "This talk is a practical demonstration of how a malicious attacker can extract sensitive information from an iOS application which runs on a jailbroken phone. The demonstration showcases some security fundamentals of what developers should look after when developing an iOS application. The goal of the demonstration is to prove that nothing on the client side can be treated as secure."
+  },
+  {
+    "id": 52,
+    "title": "Empowering Developers through Threat Modeling Excellence",
+    "abstract": "Software is eating the world where every company becomes an ICT organization. As a result, software developers are the core of everything we do in this hyper connected digital universe. “Empowering Developers through Threat Modeling Excellence” emphasizes involving developers, providing knowledge/tools, and integrating threat modeling into the software development lifecycle for secure software design. It covers strategies, best practices, benefits, real-world case studies, and fostering a security culture."
+  },
+  {
+    "id": 53,
+    "title": "The Indian Guidebook to Innovation in Product Management",
+    "abstract": "Enter the evolving realm of Product Management in India, a fast-growing field full of energy and fresh ideas. India's diverse population base brings unique challenges, shaping a distinctive direction towards product-building. Join us for a fun exploration of product principles in the Indian business context and desi cultural quirks that are making waves across the globe. In this session, we shall discover key lessons from the Indian tech industry and see how they apply to the evolving European market."
+  },
+  {
+    "id": 54,
+    "title": "What Engineers and Companies Can Do to Increase Social Impact",
+    "abstract": "What Engineers and Companies Can Do to Increase Social Impact"
+  },
+  {
+    "id": 55,
+    "title": "Solving the mismatch in the IT-job market by looking different at Talent",
+    "abstract": "Making IT education accessible and promoting diversity in the IT industry."
+  },
+  {
+    "id": 56,
+    "title": "F**k around and find out: the Proof of Concept method",
+    "abstract": "Ever had a project that ran way overtime because the solution you had in your mind didn’t turn out to be as feasible as you expected?\n\nEver spent time meticulously planning and estimating, only to be later burned alive by the dragons of unforeseen complexity?\n\nStop thinking about the problem. Get your team in a room and hack something together!"
+  },
+  {
+    "id": 57,
+    "title": "Influence without Authority",
+    "abstract": "As a program manager, much of your job consists of supporting and guiding teams to make better decisions. We are not decision makers, we are facilitators to good decision making. Influencing without authority is a key responsibility and it's a demanding one. Here, you will get tips and tricks from my book to be an empathetic and charismatic leader."
+  },
+  {
+    "id": 58,
+    "title": "Developer Joy – How great teams get s%*t done",
+    "abstract": "Software development has become more complex over the years: Building and running a distributed architecture in the cloud, ensuring observability, discussing user experience with design and product, and keeping a healthy balance between dev speed and code quality isn’t easy. Just be agile and practice DevOps, they say.\nJoin Sven and learn how great software teams measure and improve their developer experience, coordinate work across teams, run autonomous but highly aligned teams, and create a healthy and joyful engineering culture. Always backed up by data (not driven) instead of opinions.\nThe talk will demonstrate how great teams faced development challenges, reinvented themselves, and created new ways of working to get s%*t done. Without losing sight of what makes this craft fun for engineers."
+  },
+  {
+    "id": 59,
+    "title": "Take a step back",
+    "abstract": "It's easy to get lost in the everyday rush. In this talk I will show you how important it is to take a step back and look at the big picture - even where there's no time. I'll also talk about some timeless principles that you can refer to, so that you know if you're doing things right. All this will be based on real life stories at Netflix Engineering"
+  },
+  {
+    "id": 60,
+    "title": "Beyond the code: Human-centered startup development and strategic validation",
+    "abstract": "Builders Studio’s Founder and Managing Director Sharon Klaver dishes out the trade secrets behind venture building efficiently. Speaking from experiences of over a decade of building software companies, she underscores the blend of adaptive engineering and strategic validation in startup creation, focusing on people over products.\nIn today's fast-paced, data-driven landscape, standing out involves more than just aggressive marketing. Sharon presents a fresh perspective on leveraging technological advancements and human-centered design for a powerful, audience-resonating go-to-market strategy. Outpace competition by prioritizing wise building, and not just building."
+  },
+  {
+    "id": 61,
+    "title": "The (IT) transformation of KNAB: transforming a scale up for the future",
+    "abstract": "Knab is the first Digital Bank of the Netherlands, with the aim to do banking differently -or if you look at our name closely - the other way.  How did we start out, where are we now and what does that mean for our IT? A journey from start up to finding our sweet spot to delivering on our (customer) value by reaching our full potential in the future and the transformation that is underway to make this all possible."
+  },
+  {
+    "id": 62,
+    "title": "How good of a developer are you?",
+    "abstract": "Are you a good Java developer? What makes a good developer? And how can we measure this? \n\nIf you ask Oracle they'll say OCP (Oracle Certified Programmer), which means that you know when the compiler makes those red squiggly lines in your IDE disappear.\n\nIf you ask FAANG companies it means you can balance a binary tree on a whiteboard.\n\nAll of these methods involve some knowledge and memory, but have very little to do with actual day-to-day programming, technical skill, problem solving and creativity. And.. don’t you think it’s annoying you have to take all these technical tests even though you’ve been coding for many years?\n\nIn this talk we'll describe our long journey to find a better way to test software development skills; a model based on scientific research, to measure actual coding skills, in a realistic environment. Demo & code included. We're currently working with the (international) Foojay.io community to use these measures and set up a more realistic certification process."
+  },
+  {
+    "id": 63,
+    "title": "Prepare to Pioneer",
+    "abstract": "Immerse yourself in the future of software development at the Worldwide Developer Conference, where DEPT® will introduce our unique blend of innovative engineering and culture. This talk isn't just about us – it's an opportunity for you to explore new strategies, methodologies, and perspectives that can enhance your software design trajectory.\n\n\nAt DEPT®, we strategically tackle technical challenges, harmoniously blending planning and adaptation on the fly. Using our global network of software architects, we navigate the intricate labyrinth of technology. Consistently striking a balance between rapid innovation, performance requirements, and the complexities of tech platforms. Through this, we pioneer while leaning on our sturdy foundations of proven technology and quality-driven principles. We believe in incorporating the newest developments into our battle-tested standards, fortifying the capabilities of our engineering teams, and assuring our clients benefit from the cutting-edge whilst relying on the robust and reliable.\n\n\nAlongside our tech-focused discourse, we delve into the ethos that fuels DEPT®'s engine: our culture. As a B-corp certified good company, we balance our unflinching pursuit of innovation with a dedication to impactful work, DE&I and sustainability. We offer flexible working conditions, global opportunities, and foster an environment that prioritizes continuous learning and well-being.\n\n\nIn this talk, we will answer pertinent questions and dispel misconceptions. We'll shed light on:\n\nHow does DEPT®'s unique engineering approach enable businesses to adapt to ever-changing technological landscapes?\n\nWhat makes DEPT®'s culture unique, and how does it feed our innovative prowess?\n\nWhat does Pioneering mean for us at DEPT® and our culture?\n\n\nJoin us to understand our distinctive approach at DEPT®, where we firmly believe that our differences can indeed make a difference in your world. Let's explore how we merge rapid innovation with sturdy foundations, and together, let’s Prepare to Pioneer."
+  },
+  {
+    "id": 64,
+    "title": "Architecting a Seamless E-commerce Platform Transition: A Deep Dive into Migration Strategies",
+    "abstract": "This presentation unveils essential strategies for engineers to master the art of e-commerce platform migration. Explore key considerations, real-world case studies, and actionable insights for a seamless transition."
+  },
+  {
+    "id": 65,
+    "title": "The Next Generation of IT: Harnessing the Potential of Trainees",
+    "abstract": "Does your organization aim to increase productivity, decrease time to market and become more efficient? Then you need engineers with the right skills to improve productivity and strengthen the engineering culture. However, it can be difficult to find experienced engineers to fill the gaps. Over the past few years, we at ING have found that hiring (external) trainees with little to no IT experience and investing in their development is a great way of meeting our talent needs.\n\nDuring this talk, attendees will learn (from a former trainee!) about the benefits we have experienced of hiring trainees. They will discover why investing in the development of these new workers can also help their organization to:\n\n1.        Meet their talent needs: by hiring trainees, organizations can build their own talent pipeline and reduce their reliance on external sources. This can help ensure they have the right people in place to meet their current and future needs. \n\n2.        Foster innovation: IT trainees bring fresh ideas and perspectives to the workplace. By investing in their development, teams can create a culture of innovation that drives growth and success.\n\n3.        Develop a positive, learning-oriented culture: Hiring IT trainees and investing in their development can create a positive culture that attracts other skilled workers. This can help to build a high-performing and productive technology team that drives business success. We’ve found that our trainees are energetic, motivated, and eager to grow and improve. This in turn has a positive impact on the culture in our teams.\n\nThis session is for you if:\n-        You’re interested in learning more about the advantages of hiring trainees\n-        Your team has had vacancies open for months and you’re open to new solutions\n-        You have some doubts, concerns, or questions about hiring trainees that you would like to see addressed by someone with practical experience"
+  },
+  {
+    "id": 66,
+    "title": "The Cathedral, the Bazaar, and the Coffeehouse",
+    "abstract": "An exposition on open source risk and a strategy to mitigate it.  If the Log4J issues kept you up at night, if the Elasticsearch license change caused you headaches, if lack of response from open source projects is driving you to frustration, then this is the talk for you.  \n\nWe will discuss the prevalence of open source in closed source projects, a timeline of identified open source risks, and a proposal to reduce risk.\n\nThis talk extends the concepts of the Cathedral and the Bazaar introduced by Eric S. Raymond to include the Coffeehouse as a place for cross project open source support.   \n\nAttendees should come away with concepts and ideas that can be implemented within their own companies to reduce their risk exposure."
+  },
+  {
+    "id": 67,
+    "title": "Data => UI rEvolution",
+    "abstract": "Join me as we embark on an exciting exploration of the evolution of user interfaces (UIs) and data technologies. In just 30 years, my experience with Seven Segment Displays and Cathode Ray Tubes seems like a blast from the past, as computing has rapidly advanced. \n\nBut rest assured, the speed of progress in technology hasn't slowed down.\n\nIn this talk, we'll take a closer look at the fascinating history of UIs and data evolutions. We'll zoom in on the past decade, examining the transition from POSIX terminals to Graphic Interfaces, culminating in the world-renowned Search Input.\n\nTogether, we'll speculate on the impact of P2P File Sharing in our understanding and creation of Blockchains. We'll also explore how the familiarity with graph data has empower the development of sophisticated AI systems.\n\nGet ready to navigate the dimensions of data and witness how it intertwines with the evolution of UIs. It's an exploration that promises both enlightening insights and an exciting glimpse into the future of data-driven interfaces."
+  },
+  {
+    "id": 68,
+    "title": "Never be blocked by bad data again",
+    "abstract": "When you don't have good, realistic data to work, debugging a tricky issue or building a complicated feature can have you feeling frustrated or even completely blocked. But what if there was a way to unblock yourself by safely utilizing realistic production data? Peter will show you how to harness production-like data for coding and debugging, without compromising privacy or security. Here's the kicker: you don't even need your production data, just a schema. Watch as the magic of AI and Snaplet does the rest, giving you the data you need for a secure, accurate testing environment that looks like production (but isn't)."
+  },
+  {
+    "id": 69,
+    "title": "Building Durable Serverless IoT Device Workflows using Cloud-managed Finite State Machines",
+    "abstract": "Managing large and heterogenous IoT fleets is complex and involves executing sets of operations (workflows), such as configuration management or over-the-air firmware updates. Integrity is key in rolling out configuration, bug fixes, and firmware. If integrity is not ensured, hasty rollouts of fixes to critical bugs and security vulnerabilities or new features introduce high risk to potentially leave devices in inconsistent states or bricked. Visibility, control and early evidence of success on a subset of devices is crucial before rolling out at full scale.\n\nWorkflows are often distributed (executed on-devices, as well as other systems), could be long running and need to survive device reboots, offline behavior and be rolled back in case of failure. Embedded devices are inherently constrained, and are not well suited for driving complex and distributed workflows.\nIn this session we will look at modelling workflows using Finite State Machines to break down complexity, and introduce an externalized, cloud managed approach to design, build, operate and remotely orchestrate resilient workflows, outside of the scope of specific request/response cycles and independent of device uptime.\n\nThe proposed design is accompanied by a concrete example implementation, which is evaluated against expectations such as system integrity and observability. "
+  },
+  {
+    "id": 70,
+    "title": "Stranger Danger: Your Attack Surface Just Got Bigger",
+    "abstract": "Building cloud-native applications is undoubtedly awesome. However, it comes with undeniable new risks. Next to your own code, you are relying on so many other things. Blindly depending on open-source libraries and Docker images can form a massive risk for your application. The wrong package can introduce severe vulnerabilities into your application, exposing your application and your user's data. Join this hands-on cloud-native live-hacking session where we’ll show common threats, vulnerabilities, and misconfiguration including the recently disclosed problems. Most importantly, you’ll learn how to protect your application with actionable remediation and best practices"
+  },
+  {
+    "id": 71,
+    "title": "Booking.com tech modernisation",
+    "abstract": "As the world’s leading online travel agency, Booking.com grew rapidly to sell nearly 2 million room nights per day – but its systems were bursting at the seams. The largest Perl deployment on Earth became slow, rigid, and risky to change. Learn how the company re-imagined its core systems – for innovation, and a best-in-class customer experience. This presentation explains how Booking introduced a service-oriented architecture – based on Java, GraphQL and React. The attendees will leave with unique insights on implementing a large-scale tech modernisation programme at a Fortune 500 company."
+  },
+  {
+    "id": 72,
+    "title": "Building a Time Machine with ES6 Proxies",
+    "abstract": "In this session, we learn how we can use JavaScript ES6 proxies to do all sorts of cool things, among them creating reactivity, or build a time machine right inside the browser.\n\nI will go through some basic workings of Proxies on slides to understand the theory, and will then jump into live coding, where I will develop a \"\"time machine\"\" from scratch, where a state automatically (!) saves changes, and the developer can use this to jump to certain points in time, or even create a new timeline.\n\nAll of the live demo is coded by hand, and split up in very digestible pieces so it is easy to follow."
+  },
+  {
+    "id": 73,
+    "title": "A Brief History of Python Web Frameworks",
+    "abstract": "How did we get all the way to FastAPI? In this talk, we start from the humble CGI script and see how Python web development has changed over the decades."
+  },
+  {
+    "id": 74,
+    "title": "The case for Rust on the backend",
+    "abstract": "Rust truly embodies the idea of a general purpose programming language.\nIt spans the entire stack, from Linux drivers to web development. It isn't the perfect language for most domains, but it's a damn good language for most domains. This flexibility is what makes Rust so compelling: you need to invest time and effort to master it, but you're rewarded with a tool that can support you successfully in most of your endeavours.\nThe return on investment is huge.\n\nOver the next decade, I expect Rust to become ubiquitous.\nEvery developer will be working with it, either directly (by writing Rust code) or indirectly (by using libraries in other programming languages that wrap a Rust core).\n\nAPI development is the next \"\"big\"\" frontier for Rust: this talk will walk you through why that is the case and what you can expect to see in the coming years in this space."
+  },
+  {
+    "id": 75,
+    "title": "Beyond micro-services, embrace composable architectures!",
+    "abstract": "For the past two years, reports on emerging technologies have shown a strong evolution toward composable architectures. A composable architecture consists of a set of reusable building blocks. These blocks can be custom-developed or built with the best in the market off-the-shelf SaaS blocks. A composable architecture pushes the boundaries of micro-services, allowing for greater agility, faster implementation, and improved user experience through strong modularity.\nDuring this talk, discover foundations and principles of composable architecture, and how to really benefit from its implementation."
+  },
+  {
+    "id": 76,
+    "title": "Why are Python and Ruby slow?",
+    "abstract": "Twenty years ago our world was a simple place. We had Python, Ruby, PHP which were \"\"scripting\"\" or \"\"interpreted\"\" languages. Opposite to them, there were C++ and Java as \"\"compiled\"\" and \"\"fast\"\" ones, hundred times faster. Now, in 2023, C++ solves the \"\"n-body problem\"\" only marginally faster than JavaScript. But Python and Ruby are still a hundred times slower. This is not fair and there are lots of talks on how to make things faster using PyPy, Numba, CPython, etc. But my talk focuses on the \"\"why\"\" question. It's about compilers, bytecode, ceval.c, virtual machines, native extensions and all the reasons why we still hear \"\"Python is slow\"\" or \"\"Ruby is slow\"\" even if it's not true or doesn't matter."
+  },
+  {
+    "id": 77,
+    "title": "Boost your development workflow with AI",
+    "abstract": "AI is everywhere! And we developers are not going to pushed away by AI, we are going to profit from AI during our challenging work as developers. In this talk Marco and Raymon will show you how AI can make our jobs easier so we can focus on the more fun stuff. And not only while coding, also if you are attacked by annoying recruiters, which we all encountered sometimes. So sit back and enjoy!"
+  },
+  {
+    "id": 78,
+    "title": "5 Antipatterns that Made Our React/GraphQL App Slow (And How We Fixed Them)",
+    "abstract": "My presentation will navigate through five antipatterns that slowed down our React/GraphQL app. Each point illustrates a particular mistake, the issues it triggered, and how we resolved it."
+  },
+  {
+    "id": 79,
+    "title": "All Things Astro",
+    "abstract": "Astro 3 was released a while ago and brought some amazing new features with it. In this talk, we’ll take a look at some of the new released features in Astro 3, do some live coding and have some fun. Maybe we also take a look at what’s coming next in Astro 4."
+  },
+  {
+    "id": 80,
+    "title": "CSS Between the Pages",
+    "abstract": "We have been able to animate and transition on the web for a while, but the experience has been limited to within single pages. Successfully animating between large state changes has traditionally been hard and transitioning across full page loads is left up to the browser.\n\nThe View Transitions API aims to change that by making it easy to transition anything from elements to entire pages across navigations with just CSS and the occasional sprinkle of JavaScript. We’ll take a look at how this works, see some examples, and consider the future of single and multi page applications.\n\nGet ready to transition from boring page loads and jumpy state changes to a smooth ride into the future."
+  },
+  {
+    "id": 81,
+    "title": "The art of tree-shaking",
+    "abstract": "I want to discuss how to write tree-shakable frontend applications. Over the past few years, I have observed the construction of poorly tree-shakable applications. To achieve this effectively, you need to consider several important factors. Writing tree-shakable libraries or applications requires a modular way of thinking, which may not always align with your preferred software writing approach.\n\nDuring the creation of the Lucide Icons library, I gained valuable insights into how tree-shaking works. I will share the do's and don'ts that I have learned."
+  },
+  {
+    "id": 82,
+    "title": "FROM ANGULAR TO QWIK: THE FRAMEWORK THAT CHANGES THE PARADIGM",
+    "abstract": "We're going to talk about Qwik Framework, created by the creator of Angular (Hevery Misko) but first we have to talk about the history of web applications, then we'll show why Qwik is innovative.\n\nQwik is an HTML-first Framework, we load javascript only if we need it. We don't execute the javascript of a component unless we interact with it using the concept of Resumability.\n\nAfter contextualising we will show a demo of how Qwik's Resumability works and we will explore its advantages: Performance at scale, Edge first + middleware, Signals, Server functions, Directory-based routing (Qwik City) and Ecosystem."
+  },
+  {
+    "id": 83,
+    "title": "Exploring Zero Trust Architecture and its Imperative for Today's Threat Landscape",
+    "abstract": "In an era of evolving cyber threats and sophisticated attacks, traditional security models are no longer sufficient to protect our digital assets. Enter Zero Trust Architecture—a paradigm shift that challenges the long-standing assumption of trust within networks. Join us as we uncover the key considerations and strategies for deploying Zero Trust, emphasizing continuous verification, strict access controls, and proactive threat detection"
+  },
+  {
+    "id": 84,
+    "title": "From Engineer to Engineering Manager",
+    "abstract": "- "
+  },
+  {
+    "id": 85,
+    "title": "Taking care of your people is mandatory now",
+    "abstract": "New rules and legislation in the EU demand you take action to care for the people you work with. Wendy Broersen, an international inclusion expert, will explain what needs to be done. In a workplace where people are hard to find, investors are making DEI demands and your clients are too, taking the best care of your people is simply a must-do. Best practices on how to create that inclusive workplace and how you, as an employee, can contribute to diversity & inclusion will be shared as well."
+  },
+  {
+    "id": 86,
+    "title": "Java's Hidden Gems: Tools and Libraries",
+    "abstract": "This session is a whirlwind tour of many lesser known, but very  interesting, Java tools and libraries. We'll have a sneak peak at dozens  of tools to improve security, builds, architecture, tests and other  areas. After this session you'll surely have learned something new,  which you can further investigate whenever you want to apply it."
+  },
+  {
+    "id": 87,
+    "title": "So you think you know Git Advanced Git Tips and Tricks",
+    "abstract": "Git has been the de-facto version control system used by nearly every developer in the world for almost a decade now. While most of us know the basics, there are depths and hidden valleys of our Git tooling that even the most experienced of us may have never even heard of. Join Scott Chacon, a GitHub co-founder and the author of Pro Git, to dig into the hidden depths of obscure command line invocations to get more out of the amazing tool you use every day."
+  },
+  {
+    "id": 88,
+    "title": "Digital Products in Europe in the Face of the Cyber Resilience Act (CRA)",
+    "abstract": "The CRA is new European legislation that introduces the classical notion of product liability and manufacturer controls to software offered in the European marketplace. This talk will explain the novelty and challenges for not only proprietary software projects, but also demystify the compliance requirements that Open Source software projects will face."
+  },
+  {
+    "id": 89,
+    "title": "Building a product in a tech scale up",
+    "abstract": "How to build a product in a tech scale-up. And how this can affect your product strategy, what we have learned from it. How we stay on track despite making major changes, but always with the end goal in mind."
+  },
+  {
+    "id": 90,
+    "title": "The Keys to Creating an Actionable Product Strategy",
+    "abstract": "Discover the art of crafting a dynamic product strategy in this insightful talk. Delve into the complexities of creating a strategy that resonates with market needs, stands out against competitors, and drives innovation and revenue growth. Drawing on experiences from Bain & Company and TestGorilla, our speaker will guide you through the essential elements of a successful product strategy. Learn about making impactful decisions, aligning your team with your vision, and the crucial balance between vision and execution. This session is a must for those looking to elevate their product strategy and inspire their teams towards a coherent, actionable path."
+  },
+  {
+    "id": 91,
+    "title": "Climbing the product management career ladder",
+    "abstract": "During my presentation I'll share the pivotal journey that took me from a Product Manager to a\nDirector of Product. Through real-world examples and personal anecdotes, we'll explore the key\ntactics, skills, and lessons learned, both from my own path and from broader industry trends."
+  },
+  {
+    "id": 92,
+    "title": "Unveiling the Potential: Exploring Upselling, pLTV, and ML for Operations in E-commerce",
+    "abstract": "1. Upselling: Is a fancy predictive model truly necessary, or can the expertise of a seasoned monetization manager suffice? Let's explore the delicate balance and discover effective strategies that provoke curiosity and drive revenue growth.\n2. pLTV Optimization: What lies beyond the surface of pLTV? Explore the data-driven approaches that foster sustainable growth and profitability.\n3. ML for Operations: Think big - act small.  Potential low hanging fruits of operations automation."
+  },
+  {
+    "id": 93,
+    "title": "Influence without Authority",
+    "abstract": "As a program manager, much of your job consists of supporting and guiding teams to make better decisions. We are not decision makers, we are facilitators to good decision making. Influencing without authority is a key responsibility and it's a demanding one. Here, you will get tips and tricks from my book to be an empathetic and charismatic leader."
+  },
+  { "id": 94, "title": "- ", "abstract": "- " },
+  {
+    "id": 95,
+    "title": "Reinventing Agile - When Machine Learning meets Software Engineering",
+    "abstract": "- "
+  },
+  {
+    "id": 96,
+    "title": "The Perfect Product Process",
+    "abstract": "There is no perfect process but there are helpful tools. As a product manager, designer, or engineer you are often challenged to prove the value of an initiative before starting or showing value once it is done. All too often, you find yourself stuck with no data and no idea what to do. At times you might even feel like you completely missed something and feel embarrassed. Worry no more. We will explore multiple avenues that you can use to set you on the right path. When we are done you will have a cheat sheet that you can reference to get unstuck and impress those around you."
+  },
+  {
+    "id": 97,
+    "title": "How to be an adult in (professional) relationships",
+    "abstract": "Hell is other people.” There are many talks on how to get started as an engineer and how to step into management, but there are few talks about how to be an adult in (professional) relationships. I’ve spent my career in small companies and startups, FAANG organizations, and opensource communities. Each of these spaces demands different things of the people in them, yet across these spaces all succeed and fail along the fault lines of a core set of soft skills: regulating emotions, setting boundaries, framing experiences productively, and letting go. In this talk, I share everything I’ve learned in my career that has helped my colleagues, mentees, and friends so that you may navigate the most difficult part of tech—people—with grace, empathy, and safety"
+  },
+  { "id": 98, "title": "SolidJS - SolidStart", "abstract": "- " },
+  {
+    "id": 99,
+    "title": "Breaking out of the cage: move complex development to GitHub",
+    "abstract": "Two years ago the YDB distributed database source code (primarily C++) was published on GitHub. Since that moment everyone could build it and use for free, but the development process remained locked inside a big IT company proprietary context.\n\nTo enable efficient contribution, we had to move our development to GitHub, breaking all dependencies to any proprietary infrastructure and tools.\n\nIn my talk, I will show how did we move our primary development branch to GitHub, setting up independent commodity on-demand cloud infrastructure, CI processes with GitHub Actions, test management with open source and cloud tools. Special attention will be paid to the complexities of decoupling from the corporate monorepository and build system."
+  },
+  {
+    "id": 100,
+    "title": "Azure Static Web Apps for the Enterprise",
+    "abstract": "Azure Static Web Apps. An easy way to get a hobby site into the world for very little cost.\n\nBut that's not all they can do! With a few changes to the out of the box experience, and using the standard, paid, tier we can use these Azure Resources in our enterprise architecture!\n\nWe will touch upon infrastructure as code, to make reliable deployments to a known environment.\n\nFinally, we'll look into how to change the default pipeline to allow unit tests etc for the code, and deploying the same build applications into multiple environments."
+  },
+  {
+    "id": 101,
+    "title": "Bandwidth Ballet: Optimizing Video Performance for Web Maestros",
+    "abstract": "In the captivating realm of the digital stage, where web developers orchestrate experiences that dance across screens, \"\"Bandwidth Ballet: Optimizing Video Performance for Web Maestros\"\" takes center stage. This engaging talk is a symphony of insights tailored for web developers who aspire to choreograph impeccable video performances on the grand canvas of the internet.\n\nStep into the spotlight as we delve into the details of encoding and transcoding, demystifying the technical intricacies that underpin seamless video delivery. Explore the nuanced world of adaptive bitstream, where videos gracefully pirouette through varying network conditions, ensuring a mesmerizing user experience without missing a beat.\n\nUnveil the secrets behind weaving engaging visual narratives through video formats that harmonize across devices and browsers. Discover how the judicious choice of codecs can lend a unique texture to your content, enriching the audience's immersion.\n\nLed by a seasoned virtuoso speaker, you'll traverse the landscape of benefits that video brings to the digital stage. From enhancing user engagement to conveying intricate concepts with flair, the transformative power of video is explored in depth, offering web developers a fresh perspective on crafting unforgettable online performances.\n\nWith practical insights and actionable takeaways by the end of the talk you will have elevated your web development game, ensuring that adding a video to any webpage will be as easy as adding just a simple paragraph."
+  },
+  { "id": 102, "title": "State of Deno", "abstract": "- " },
+  {
+    "id": 103,
+    "title": "Workshop: Keep a Token in Your Pocket: Expanding JWTs for Everyday Use Cases",
+    "abstract": "Imagine being able to easily enter a foreign country with a QR code on your phone. Or maybe you want to apply for a new job, and are able to share referrals and qualifications without the need to contact a soul. What if getting a driver's license no longer required you digging through old utility bills and searching high and low for your birth certificate?\n\n\nAll of this is possible via a special kind of JSON Web Token (JWT) known as a Verifiable Credential. It turns out that the compact, transportable, tamper-resistant properties of JWTs make them perfect for so much more than just single sign-on. \n\n\nBecause JWTs contain JSON objects, just about anything can be expressed in them! Travel documents, employment status, college degrees, professional certifications, and just about any other skill, qualification, or aspect of identity can be in the form of a token - making it easy for users to prove attributes about themselves.\n\n\nIn this workshop, we'll dive into the nuts and bolts of creating Verifiable Credentials. You'll learn how to encode, decode, and effectively implement these tokens in real-world scenarios. By the end, we'll issue your very own Verifiable Credentials proving that you successfully completed the workshop 🎓"
+  },
+  {
+    "id": 104,
+    "title": "PANEL - Beyond the Silo: Reimagining Knowledge Organization with Gen AI & Emerging Architectures",
+    "abstract": "- "
+  },
+  {
+    "id": 105,
+    "title": "Bridging the Gap: Closing the Gender and Diversity Divide in Tech",
+    "abstract": "-"
+  },
+  {
+    "id": 106,
+    "title": "Introduction into Reverse Engineering and iOS Security",
+    "abstract": "This workshop is about reverse engineering and a runtime manipulation of an iOS application. It guides through the basic RE principles and shows developers what to look after when developing an application. The key takeaway of the talk is that nothing on the client side can be treated as secure. Once a malicious attacker gets into the phone and tries really hard, all data can be exposed."
+  },
+  {
+    "id": 107,
+    "title": "Workshop: Creating user centric products",
+    "abstract": "The workshop \"Creating user centric products\" will focus on educating the participants on keeping users at the heart of the product ideation. During the workshop, participants will learn a structured framework for product discovery and use design thinking concepts to work in small groups to develop a user centered product and present it to the group."
+  },
+  {
+    "id": 108,
+    "title": "Product Management for Optimization",
+    "abstract": "- "
+  },
+  {
+    "id": 109,
+    "title": "Gen AI Unbound: Redefining Creativity and Product Design Approaches ",
+    "abstract": "In this keynote, we will explore the potential of Gen AI beyond content creation, examining its ability to transform industries, redefine creativity, and alter our relationships with technology and each another. We'll challenge the very essence of creativity in the AI era, from dissecting digital noise to uncovering unintended consequences of AI product design and development. This session invites you to learn about the principles of human-AI interaction and the development of generative AI products that provide value to businesses, individuals, and society as a whole. "
+  },
+  {
+    "id": 110,
+    "title": "Simulating computational complexity; predicting the future without the assumption a pattern exists",
+    "abstract": "Cellular automata allow you to model chaotic systems and understand the conditions and forces that drive them to certain states; for example, state machines, regular expressions, Turing- and Moore machines. They give a greater explanation for the current state beyond patterns and trends.\n\nDuring this talk, I will demonstrate the application of ING-specific automata and illustrate how algorithms can be used to solve complex problems. This is something that we do most of the time in IT, if not in life, because automata theory is also about understanding how the world around us is evolving from one state to the next."
+  },
+  {
+    "id": 111,
+    "title": "From 0 to 15 million users : a tech journey on how to scale a mobile app across countries",
+    "abstract": "How do you create, develop, and sustain a financial app that is not just a one-time build, but adaptable for international markets? ING’s challenge was to construct a robust, feature rich native app platform capable of launching in numerous countries—all while maintaining the agility to deliver to app stores within months of starting from scratch.\n\n \n\nMarcin Pakulnicki, Head of IT Mobile App, delves into the intricacies. Learn how to design the tech stack that tailors the app experience to individual users. Delve into the essential Site Reliability Engineering (SRE), resilience, and security measures necessary when your APIs are mission critical for money matters in multiple countries, running in both public and private cloud.\n\n \n\nUnderstand how to speed up development by breaking up code into modular building blocks and learn how to build from autonomous teams of to a global development team at scale with many partly remote working teams. And finally gain insights in how to establish an effective code contribution system to the platform."
+  },
+  { "id": 112, "title": "Future of Frontend Panel", "abstract": "- " },
+  {
+    "id": 113,
+    "title": "Tech Forecast: Anticipating the Next Wave of Technological Breakthroughs - Panel",
+    "abstract": "- "
+  },
+  {
+    "id": 114,
+    "title": "Will AI take over the world  - Panel",
+    "abstract": "- "
+  },
+  {
+    "id": 115,
+    "title": "Bridging the Gap: Closing the Gender and Diversity Divide in Tech - Panel",
+    "abstract": "- "
+  },
+  { "id": 116, "title": "Web Developments at Google", "abstract": "- " },
+  { "id": 117, "title": "- ", "abstract": "- " },
+  {
+    "id": 118,
+    "title": "From developer productivity to engineering impact",
+    "abstract": "Engineering efficiency has become a burning topic with the ongoing downsizings and cost-cutting trends. Boards and investors demand visibility into the performance of the teams, while engineering leaders struggle to characterize engineering success.\nThis symptom reveals another root cause: relying solely on KPIs falls short on capturing the complexity of software engineering. They fail to encapsulate considerations such as juggling between priorities, managing technical debt, or navigating team management challenges. Engineering success takes a lot more than productivity: no business impact can be achieved without alignment to company goals; no results can be obtained durably without a fulfilling environment for the teams.\nI faced this issue of measuring and communicating engineering success myself as a VP Engineering, and shared my experience with hundreds of other engineering leaders. The solution I reached is based on three pillars:\nConnecting everyday engineering work to its purpose, and measuring the alignment of efforts to company goals. This helps shine a light on teams juggling with too many priorities, or drifting into non-priority topics.\nEmpowering your teams to monitor their delivery performance using various metrics, like DORA, in order for them to continuously improve, like a runner is tracking his performance through applications like Strava.\nFostering a healthy environment, where performance is measured on teams rather than individuals, and data is transparently accessible to all.\nThis framework helps your teams live up to their full potential and deliver a maximum impact. On the leadership side, collecting this data lets you communicate your teams' success through data rather than unsupported assertions."
+  },
+  {
+    "id": 119,
+    "title": "Astro and Qwik - a match made in performance heaven!",
+    "abstract": "Last year, we witnessed the rapidly growing popularity of two new modern frontend frameworks focused on performance - Astro and Qwik.\n\nWhile the promise of both frameworks is very similar - making apps fast without worrying about their optimization- they work in completely different ways and are applicable for different use cases. Astro is a great fit for websites that want to benefit from the DX of modern frameworks, and Qwik is amazing for large, JavaScript-heavy applications. Recently, we saw something that brings both worlds together - Qwik integration for Astro.\n\nIs this a perfect solution for any application, or are there still better alternatives? During the talk, we will learn what makes Qwik and Astro fast for their use cases, what well-known performance patterns they're using, and when it makes sense to use each of them (or both together!)"
+  },
+  {
+    "id": 120,
+    "title": "Everything is a plugin",
+    "abstract": "CKEditor 5 is a highly customizable rich text editor designed for web applications, CMS, LMS and more. This session will demystify the CKEditor 5’s MV+ Architecture, explain the powerful role of the plugin ecosystem, and highlight some of the more advanced plugins like real time collaboration. The newest plugin to this ecosystem is the AI Assistant that facilitates content generation through pre-written prompts or custom queries, while also providing seamless integration options with powerful AI models like OpenAI, AzureAI, and AWS Bedrock. Whether you’re new to CKEditor 5 or looking to understand more, this session will offer valuable insights into how flexible its architecture is and yes, everything, including typing, is a plugin!"
+  },
+  {
+    "id": 121,
+    "title": "Empowering female leadership in tech industry",
+    "abstract": "In an era where technological advancements redefine possibilities daily, diversity emerges as a catalyst for innovation, beyond merely a matter of equity. Undoubtedly, the technology sector requires greater female representation in leadership roles. This discourse aims to delve into the significance of female leaders, offering insights into augmenting leadership competencies and fostering effective team management.\n\n \n\nDeniz will impart inspiring success narratives alongside instructive failures, fostering a culture of sustainable growth. Attendees can anticipate garnering invaluable insights and practical strategies to navigate their own tech journey towards success!"
+  },
+  {
+    "id": 122,
+    "title": "Community - catch them all",
+    "abstract": "Each and every community works differently, but Soner and Fabian are part of multiple communities. First and foremost Shopware, but also e-commerce, nix, Deployer, Vue and more.\nWe want to dive into the questions:\n\nWhat is “community”?\nHow to become part of it (hint hint: you are already!)?\nWhat opportunities are there for people who are not stage personas?\nWhat can you do to avoid being perceived as toxic?"
+  },
+  {
+    "id": 123,
+    "title": "Cache? Where we're going, we don't need cache!",
+    "abstract": "- "
+  },
+  {
+    "id": 124,
+    "title": "Tech Broke My Heart",
+    "abstract": "Compounding work-related stress in my 20’s left me with a heart condition and at a crossroads: Leave the tech industry to find less stressful work, or continue “making sacrifices” to build a successful career. It seemed unfair, but more than that, it seemed illogical. Olympians are undeniably the best athletes in the world, and their extraordinary performance depends just as much on their recovery as their training."
+  },
+  {
+    "id": 125,
+    "title": "Radically simplifying the life of developers and businesses with Multistax",
+    "abstract": " In todays complex cloud world you want to keep focus on what actually matters, what if a cloud is just a given and you deploy anywhere, anytime, without the hassle and you have the right information at hand what you would expect in 2024 including a demonstration how this works with Multistax?"
+  },
+  {
+    "id": 126,
+    "title": "A Deep Dive into Development Environment Configuration Standards",
+    "abstract": "The process of setting up your Development Environment is always tedious. Configuring your\nruntime, database or any other service is a pain you and your colleagues go through too often.\nStandardizing your Development Environment is the easiest way to eliminate these headaches\nand allow you to truly configure once and never worry about it again.\nIn this talk, we will take a deep dive into popular Dev Environment standards so you can choose\none that maximizes your team's development velocity."
+  },
+  {
+    "id": 127,
+    "title": "Rendering Revealed",
+    "abstract": "Ever feel like you're drowning in the alphabet soup of options for rendering your web apps? SPA, CSR, RSC, SSR, SSG, ISR... 🤯\nLet’s cut through the confusing jargon and gain clarity about modern rendering modes, how they function, and most importantly: how to select the right rendering strategy for your use case to achieve the most performant outcome possible."
+  },
+  {
+    "id": 128,
+    "title": "Empower AI: Building Smarter Solutions with Embeddings",
+    "abstract": "Large Language Models (LLMs) are renowned for their exceptional linguistic capabilities, yet often falter in retrieving factual information. In the landscape of modern AI, Embeddings have emerged as indispensable tools. This session delves into the essence of Embeddings: What are they? Why are they crucial? And most importantly, how can you leverage them to enhance the accuracy and intelligence of your AI solutions? Join us as we unravel the potential of Embeddings in empowering AI systems to deliver smarter, more precise outcomes.\n"
+  },
+  {
+    "id": 129,
+    "title": "How SvelteKit can accelerate your productivity",
+    "abstract": "In our workshop you go through the fundamentals that beginners would need to start building applications in SvelteKit. As it is a relatively new framework, we thought it would be a great time to give people a taste of it. Our workshop is roughly 2 days with plenty of time for interactive learning and Q&As."
+  },
+  {
+    "id": 130,
+    "title": "Leveraging Moore's Law to Optimize Database Performance",
+    "abstract": "Investing in efficient technologies is a proven way to innovate while reducing costs. But efficiency has another benefit: recent research has shown that an efficient technology’s benefits are superior to offsetting emissions by planting 50 hectares of trees. With the EU’s Corporate Sustainability Reporting Directive (CSRD) coming into force and the current economic climate, many companies are considering efficient databases like Aerospike."
+  },
+  {
+    "id": 131,
+    "title": "The Art of Team Design",
+    "abstract": "This talk takes a look at how humans have historically organized their work, from the structures of military formations and guilds, to the seismic shifts during the industrial revolution, leading up to the present-day realities of a fast-paced, agile-driven, and increasingly remote work environment.\nAs tech leaders our quest is to build high-performing tech teams. Let's try to delve into the wisdom, ideas, and strategies available for leaders who have the opportunity to reimagine their organisations from scratch or revamp existing structures. Let's look at the elements of team design that drive productivity and success in the tech industry today."
+  },
+  {
+    "id": 132,
+    "title": "Automate your inner scout: always leave code in a better state than where you found it.",
+    "abstract": "Maintaining code quality is a critical but monotonous task. From enforcing consistent code style\nor removing a deprecated method to full blown framework migrations, maintenance is never\nending. It’s vital for minimizing technical debt and ensuring smooth operations. While the scout\nrule—leaving the codebase better than you found it—is a popular principle, it slows the pace of\nnew feature development. And manual adherence to this rule leads to inconsistencies, exposes\nsecurity vulnerabilities, and complicates migrations when dealing with deprecated elements.\nThe choice to postpone maintenance tasks in favor of work that delivers more direct business\nvalue is often made. This neglect leaves you at the mercy of third-party decisions, especially\nduring crucial migrations when supported versions are phased out.\nWhat if we could automate the scout rule? What if we could do this not in one project at a time,\nbut over an entire organization's codebase?\nWe will explore how you can transform your inner scout into a true force of nature. You will learn\nhow to automate code maintenance to systematically enhance code quality and analyze the\nimpact of these actions. We will execute this strategy on real-world scenarios using open-source\nrepositories."
+  },
+  {
+    "id": 133,
+    "title": "How to cut through the noise and look at the physics behind cloud sustainability.  ",
+    "abstract": "We'll look at the actual footprint of a GPU for a year with back of the envelope math, show how easy it is to break down the\n tools from the big 3 (AWS/Azure/GCP) in simple terms they tend to hide. And look at the three Rs (reduce, reuse, recycle), how they apply to cloud, and specifically to AI. \n\nIn other words: Cloud & AI sustainability sans the bullshit.  "
+  },
+  {
+    "id": 134,
+    "title": "A tale of Three Webs: The UX Journey from web 1.0 to web 3.0",
+    "abstract": "Welcome to ‘A Tale of Three Webs: The UX Journey from Web 1.0 to Web 3.0,’ a narrative voyage through the transformative world of the internet. Our story begins in the era of Web 1.0, a digital frontier of static pages and simple interfaces, where the web was a one-way street of information. As explorers in this nascent world, users were spectators, marveling at the possibilities of this new digital realm.\nAs we transition into Web 2.0 and now, the burgeoning Web 3.0, our tale evolves dramatically. Interactivity, collaboration, and personalization take center stage, redefining the user experience. From the interactive and social landscapes of Web 2.0 to the intelligent, decentralized vistas of Web 3.0, UX has been the compass guiding this journey. However, the UX of Web 3.0 also presents numerous challenges, which currently act as barriers to its broader adoption.\nWe embark on a thrilling journey to uncover the dynamic interplay between different eras and our relationship with technology. It’s a story of mutual influence - how technology continuously redefines our world, and in turn, how each era leaves its unique imprint on technological progress. Along the way, we’ll also venture into imaginative projections of what the future might hold in this ever-evolving narrative."
+  },
+  {
+    "id": 135,
+    "title": "Super vision smart goggles: Observability !",
+    "abstract": "With Observability you attach little agents to each component that is involved in delivering the customer journey of your digital product. Components such as custom applications, containers, virtual machines, operating systems, network components, and many more.\n\nThose agents collect information about the quality of the component based on customer behavior, such as clicking a JavaScript button or requesting information from an API. But also on interval by using a bot for executing these same requests from anywhere in the world.\n\n \n\nCentrally gathering and automatically analyzing all this information gives you the opportunity to have the system alert the owner on deviations helped by big data analysis, such as anomaly detection or more complicated machine learning jobs.\n\nObservability provides nice topology of your complete application landscape, it maps all dependencies and makes root cause analysis a piece of cake! But the real advantage of Observability is pro-active action: by automatically spotting smaller upfront indications of a possible degradation of the customer experience you can prevent that same degradation of the customer experience. An example of this is an anomaly in CPU usage of a database, which is correlated to the deviating latency of a request. Before the latency unacceptable an results in leaving customers the issue can be spotted, solved and thus prevented.\n\n \n\nI show that conventional monitoring is evolving in a holistic and automated way which provides teams and decision makers with powerful pro insights based on historical facts about the customer journey, which are needed to prioritize quick action and make new plans for an unforeseeable future. Moreover by 2025 EU law (NIS2) requires official representatives of organizations such as KvK to have their monitoring situation in check by making them responsible for being able to finish a root cause analysis within 24h when dealing with a cyber security attack.\n\n \n\nWith this presentation you learn what the difference is between conventional monitoring and Observability. It explains the concept of Observability, how it is implemented, how it is used, what span of control it provides and how its insights enable them to grow in a healthy way."
+  }
+]
