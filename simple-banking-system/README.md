@@ -1,0 +1,4 @@
+- ThreadsAndLocks: https://replit.com/@HarishKandala/ThreadsAndLocks-old
+- Actors: https://replit.com/@HarishKandala/Actors-old
+- ChannelsAndGoRoutines: https://replit.com/@HarishKandala/ChannelsAndGoRoutines-old
+- EventLoopAndAsyncAwait: https://replit.com/@HarishKandala/EventLoopAndAsyncAwait-old
