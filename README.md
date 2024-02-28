@@ -1,4 +1,4 @@
-# DEV World Conference 2024 Code Examples
+# DEV World 2024 Conference Code Examples
 
 This repo contains all the code examples covered in the [deck](https://github.com/hkandala/dev-2024-conference-deck): "Concurrency Models Demystified"
 
